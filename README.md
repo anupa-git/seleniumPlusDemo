@@ -1,2 +1,2 @@
 # seleniumPlusDemo
-Welcome to GIT repository
+Hello !!  Welcome to GIT repository
